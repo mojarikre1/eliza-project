@@ -5,7 +5,7 @@
 
 GROUP MEMBERS
 -------------
-  [Your Name Here]
+  [Mcdavis Ojarikre]
 
 FILES
 -----
